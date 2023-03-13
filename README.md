@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leixiaoning
   
-    deep learning, asr, tts, cv-gan
+    asr, tts, cv gan, diffusion model
 
 <!---
 leixiaoning/leixiaoning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
